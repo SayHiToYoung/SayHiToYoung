@@ -40,6 +40,7 @@
 >   - Privacy-first design under R.A.I.L.G.U.A.R.D principles  
 >     ✅ Open-source: [AuraWell_Agent Repository](https://github.com/PrescottClub/AuraWell_Agent)
 
+---
 
 ### 🛠️ Admin Management System
 
