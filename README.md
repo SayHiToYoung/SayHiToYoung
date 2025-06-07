@@ -42,6 +42,7 @@
 
 > Team project for tracking and visualizing user fitness data.  
 >
+> - **Frontend**: JavaScript, HTML, Css, Bootsrap.  
 > - Backend: **Flask** and **SQLite**  
 >   ✅ Responsible for data acquisition and visual chart generation.
 
