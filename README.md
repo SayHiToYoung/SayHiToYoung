@@ -30,11 +30,11 @@
 
 ### 🛠️ Admin Management System
 
-> A full-stack admin system built independently.  
+> A full-featured admin dashboard built with Vue.js and Element UI.  
 >
-> - Backend: **Express.js** with **MySQL**  
-> - Frontend: **Vue.js** and **Webpack**  
->   ✅ Developed role-based management system and real-time data display.
+> - **Frontend**: Vue 2, Element UI, Vuex, Vue Router, Webpack  
+> - **Backend**: Node.js (node-elm), RESTful APIs  
+>   ✅ Role-based access control, product/shop management, data dashboards, WYSIWYG editors.
 
 ---
 
@@ -44,13 +44,6 @@
 >
 > - Backend: **Flask** and **SQLite**  
 >   ✅ Responsible for data acquisition and visual chart generation.
-
----
-
-### 🎵 Spotify Product Independent Site (2024)
-
-> Managed an independent website for Spotify-related merchandise.  
-> ✅ Focused on performance optimization, image lazy loading, SEO, and CSV-based product import.
 
 ---
 
@@ -65,9 +58,20 @@
 
 ---
 
+## 🧑‍💼 Internship Experience
+
+### 🛍️ Shopify-based E-commerce Platform Intern (2024)
+
+> Operated and maintained a Shopify store for local Australian clients.  
+> ✅ Optimized product listings, implemented SEO strategies  
+> ✅ Configured lazy image loading, handled CSV-based product imports  
+> ✅ Ensured platform stability and content protection
+
+---
+
 ## 📫 Let's Connect
 
-📧 Email: your.email@example.com  
+📧 Email: weiyuyang250@outlook.com  
 🌍 GitHub: [SayHiToYoung](https://github.com/SayHiToYoung)
 
 ---
