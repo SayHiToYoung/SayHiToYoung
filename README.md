@@ -28,6 +28,19 @@
 
 ## 🌟 Featured Projects
 
+### 🧠 AuraWell: AI-Driven Health Orchestration Agent
+
+> A personalized health agent platform that integrates user routines, fitness goals, preferences, and schedule.  
+>
+> - **Core Features**:
+>   - Integrated with **DeepSeek AI** for contextual health recommendations
+>   - Standardized health data model supporting multi-platform input
+>   - Comprehensive user health profile management
+>   - Gamification engine with achievements and daily challenges
+>   - Privacy-first design under R.A.I.L.G.U.A.R.D principles  
+>     ✅ Open-source: [AuraWell_Agent Repository](https://github.com/PrescottClub/AuraWell_Agent)
+
+
 ### 🛠️ Admin Management System
 
 > A full-featured admin dashboard built with Vue.js and Element UI.  
@@ -42,7 +55,6 @@
 
 > Team project for tracking and visualizing user fitness data.  
 >
-> - **Frontend**: JavaScript, HTML, Css, Bootsrap.  
 > - Backend: **Flask** and **SQLite**  
 >   ✅ Responsible for data acquisition and visual chart generation.
 
